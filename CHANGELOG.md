@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.7.0](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity/compare/v2.6.0...v2.7.0) (2026-01-08)
+
+### Features
+
+* Add provider meta user-agent ([#54](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity/issues/54)) ([6310b50](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity/commit/6310b50b6cd5b098a19d0f077331609d4530ac2a))
+
 ## [2.6.0](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity/compare/v2.5.0...v2.6.0) (2025-12-22)
 
 ### Features
